@@ -6,7 +6,7 @@ Keegan is currently a student at Northeastern for her Master's in Data Science.
 
 This repo will serve to highlight some projects I have worked on or am currently working on.
 
-*   🌍  I'm based in the United States
+*   🌍  I'm based in the Boston area (United States)
 *   ✉️  You can contact me at [veazey.k@northeastern.edu](mailto:veazey.k@northeastern.edu)
 *   🧠  I'm learning AI and Machine Learning frameworks, theory and applied techniques
 *   🤝  I'm open to collaborating on projects that match my values of building stronger communities, enabling sustainable living, and improving decision making
