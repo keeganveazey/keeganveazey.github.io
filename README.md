@@ -4,7 +4,7 @@ Welcome to Keegan Veazey's Github
 Keegan is currently a student at Northeastern for her Master's in Data Science.
 ---------------------------------------------
 
-This repo will serve to highlight some projects I have worked on or am currently working on.
+This will serve to highlight some projects I have worked on or am currently working on.
 
 *   🌍  I'm based in the Boston area (United States)
 *   ✉️  You can contact me [here](mailto:veazey.k@northeastern.edu)
